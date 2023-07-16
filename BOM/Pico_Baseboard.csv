@@ -1,0 +1,23 @@
+Reference,Value,Footprint,JLCPCB PART#,MANUFACTURER,MPN,UNIT PRICE,VENDOR,Qty,TOTAL
+"C201, C204, C205, C303, C304",10u,Capacitor_SMD:C_0402_1005Metric,C344022,Murata Electronics ,GRM188R61E106KA73D,0.0332,LCSC,5,0.166
+"C202, C203, C301, C302",100n,Capacitor_SMD:C_0402_1005Metric,C307380,Samsung Electro-Mechanics ,CL03A104KO3NNNC,0.0017,LCSC,4,0.0068
+C305-C307,1u,Capacitor_SMD:C_0402_1005Metric,C29266,Samsung Electro-Mechanics,CL05A105KO5NNNC,0.0026,LCSC,3,0.0078
+D101,SS34,Diode_SMD:D_SOD-323,C5365547,JUXING ,3DSR1M,0.0122,LCSC,1,0.0122
+FB301,220R@100MHz,Inductor_SMD:L_0402_1005Metric,C85823,Murata Electronics ,BLM15PG100SN1D,0.0081,LCSC,1,0.0081
+J101,Barrel_Jack,Connector_BarrelJack:BarrelJack_Horizontal,C3010533,HCTL ,HC-DC-005-2.0T,0.0418,LCSC,1,0.0418
+J102,Conn_WATER1,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-3-2.54_1x03_P2.54mm_Horizontal",C68305,BOOMELE(Boom Precision Elec) ,C68305,0.4344,LCSC,1,0.4344
+J103,Conn_WATER2,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-3-2.54_1x03_P2.54mm_Horizontal",C68305,BOOMELE(Boom Precision Elec) ,C68305,0.4344,LCSC,1,0.4344
+J104,Conn_WATER3,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-3-2.54_1x03_P2.54mm_Horizontal",C68305,BOOMELE(Boom Precision Elec) ,C68305,0.4344,LCSC,1,0.4344
+J105,Conn_WATER4,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-3-2.54_1x03_P2.54mm_Horizontal",C68305,BOOMELE(Boom Precision Elec) ,C68305,0.4344,LCSC,1,0.4344
+J106,Conn_AUX1,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-3-2.54_1x03_P2.54mm_Horizontal",C68305,BOOMELE(Boom Precision Elec) ,C68305,0.4344,LCSC,1,0.4344
+J107,Conn_AUX2,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-3-2.54_1x03_P2.54mm_Horizontal",C68305,BOOMELE(Boom Precision Elec) ,C68305,0.4344,LCSC,1,0.4344
+J108,Conn_AUX3,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-3-2.54_1x03_P2.54mm_Horizontal",C68305,BOOMELE(Boom Precision Elec) ,C68305,0.4344,LCSC,1,0.4344
+J109,Conn_AUX4,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-3-2.54_1x03_P2.54mm_Horizontal",C68305,BOOMELE(Boom Precision Elec) ,C68305,0.4344,LCSC,1,0.4344
+L201,4.7u,Inductor_SMD:L_Sunlord_MWSA0402S,C7187307,DMBJ ,CXP0420-4R7M-AG(4.7uh),0.1071,LCSC,1,0.1071
+R301-R303,10K,Resistor_SMD:R_0402_1005Metric,C60490,YAGEO,RC0402FR-0710KL,0.0006,LCSC,3,0.0018
+SW301,SW_RESET,Button_Switch_SMD:SW_SPST_B3U-1000P,C2905193,DEALON ,TD-1183SN-1.5H-250,0.1461,LCSC,1,0.1461
+U201,AP63205WU,Package_TO_SOT_SMD:TSOT-23-6,C2071056,Diodes Incorporated ,AP63205WU-7,0.3421,LCSC,1,0.3421
+U301,RaspberryPi Pico,My_MCU_RaspberryPi_Module:RaspberryPi Pico,C7203002,Raspberry Pi ,PICO,4.313,LCSC,1,4.313
+U302,ADS1115IDGS,Package_SO:TSSOP-10_3x3mm_P0.5mm,C37593,Texas Instruments ,ADS1115IDGSR,3.3187,LCSC,1,3.3187
+,,,,,,,,,
+,,,,,,,,,11.9467
